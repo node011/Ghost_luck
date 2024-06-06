@@ -37,4 +37,4 @@ This code is licensed under the MIT License. See the LICENSE file for details.
 - The code is based on the work of [1], which is a shellcode loader that unloads the NTDLL library via indirect syscalls.
 
 
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/16293666/4590dc56-4e32-4f01-8a5e-2b0e1dee5e31/paste.txt
+[1][https://github.com/mansk1es/GhostFart/tree/main](https://github.com/mansk1es/GhostFart/tree/main)
